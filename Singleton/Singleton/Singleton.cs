@@ -10,7 +10,7 @@ namespace Singleton
         private static Singleton Instancia = null;
 
         public static Singleton GetInstancia
-        { 
+        {
             //garante que exista apenas uma instancia do objeto
             get
             {
@@ -29,6 +29,6 @@ namespace Singleton
         {
             Console.WriteLine(msg);
         }
-        
+
     }
 }
