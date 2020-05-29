@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NeJKCkUINmTU/GuQGg3wozd6BQwvuhfTVT2yhzg+o8LXwmL2jPVg7aRmNzEjNzhyMeUsF7hw+vSf07MqaODULA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\DesignPatterns\\Builder\\Builder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
