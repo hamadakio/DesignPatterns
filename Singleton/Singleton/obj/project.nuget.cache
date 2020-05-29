@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJ+vX+G7QO9G825fM0AqpulDsbauEHRd1BukVu25rqN4UUqXFB8joCdcUDvOS9eTjCtzeaPlnYxpsORQCgXtpw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\DesignPatterns\\Singleton\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
