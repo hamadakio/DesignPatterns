@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZMYNQQacIezz8T9TOL2Be5+hvsKI9BDnrIxKPOyahRRJxbpYJt1mqzOHaD+z8zEB3nTAwB4257wFHldRm2zdgA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\DesignPatterns\\Estrutural\\Bridge\\Bridge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
