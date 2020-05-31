@@ -1,0 +1,13 @@
+D:\Projetos\DesignPatterns\Estrutural\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+D:\Projetos\DesignPatterns\Estrutural\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+D:\Projetos\DesignPatterns\Estrutural\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+D:\Projetos\DesignPatterns\Estrutural\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+D:\Projetos\DesignPatterns\Estrutural\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+D:\Projetos\DesignPatterns\Estrutural\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+D:\Projetos\DesignPatterns\Estrutural\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+D:\Projetos\DesignPatterns\Estrutural\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatterns\Estrutural\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+D:\Projetos\DesignPatterns\Estrutural\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatterns\Estrutural\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+D:\Projetos\DesignPatterns\Estrutural\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+D:\Projetos\DesignPatterns\Estrutural\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
