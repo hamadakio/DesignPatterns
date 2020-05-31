@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ypSnM4fX5VcxHREr+QfNmIYIfo6hf+w5HqmF+wHsyKayNa2ZUMbGRhZ0HoqNgba0on+y5oqgOQAXkK66u8Ny2Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\DesignPatterns\\Estrutural\\Composite\\Composite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
