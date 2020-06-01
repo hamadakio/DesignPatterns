@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3/thegpRF5tAkkXWcj49odp8zz0k0KUyf5SOVwPzIznJe6fSjOwLcvF1eZedbsGN+L9Aqa3h2tyG/GhWDANgw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\DesignPatterns\\Estrutural\\Decorator\\Decorator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
