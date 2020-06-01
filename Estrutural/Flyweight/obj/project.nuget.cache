@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KDe6ltlXk7YcocihInMQeDDmi6F9anUbi7gwQ4ac1P8VAi6u7YN72bRVUfdhbeoWO4kiBRBH1si2cmgZBcs6kQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\DesignPatterns\\Estrutural\\Flyweight\\Flyweight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
