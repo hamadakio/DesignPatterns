@@ -1,0 +1,13 @@
+D:\Projetos\DesignPatterns\Comportamental\Command\bin\Debug\netcoreapp3.1\Command.exe
+D:\Projetos\DesignPatterns\Comportamental\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+D:\Projetos\DesignPatterns\Comportamental\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+D:\Projetos\DesignPatterns\Comportamental\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+D:\Projetos\DesignPatterns\Comportamental\Command\bin\Debug\netcoreapp3.1\Command.dll
+D:\Projetos\DesignPatterns\Comportamental\Command\bin\Debug\netcoreapp3.1\Command.pdb
+D:\Projetos\DesignPatterns\Comportamental\Command\obj\Debug\netcoreapp3.1\Command.csprojAssemblyReference.cache
+D:\Projetos\DesignPatterns\Comportamental\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+D:\Projetos\DesignPatterns\Comportamental\Command\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Command\obj\Debug\netcoreapp3.1\Command.dll
+D:\Projetos\DesignPatterns\Comportamental\Command\obj\Debug\netcoreapp3.1\Command.pdb
+D:\Projetos\DesignPatterns\Comportamental\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache
