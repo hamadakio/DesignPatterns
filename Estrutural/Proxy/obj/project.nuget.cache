@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5GRYYlF3+l3KRMDKFtrt4nprZe85wkGqvj5o/DN3MNqBg+Q9Tj/w8DnAB5vW43JoO7Hzddx6E8rly3zKkho6w==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\DesignPatterns\\Estrutural\\Proxy\\Proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

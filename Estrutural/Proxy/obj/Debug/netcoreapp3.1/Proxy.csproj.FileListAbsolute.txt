@@ -1,0 +1,13 @@
+D:\Projetos\DesignPatterns\Estrutural\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+D:\Projetos\DesignPatterns\Estrutural\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+D:\Projetos\DesignPatterns\Estrutural\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+D:\Projetos\DesignPatterns\Estrutural\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+D:\Projetos\DesignPatterns\Estrutural\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+D:\Projetos\DesignPatterns\Estrutural\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+D:\Projetos\DesignPatterns\Estrutural\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatterns\Estrutural\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+D:\Projetos\DesignPatterns\Estrutural\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatterns\Estrutural\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+D:\Projetos\DesignPatterns\Estrutural\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+D:\Projetos\DesignPatterns\Estrutural\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
+D:\Projetos\DesignPatterns\Estrutural\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
