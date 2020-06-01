@@ -1,0 +1,12 @@
+D:\Projetos\DesignPatterns\Estrutural\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+D:\Projetos\DesignPatterns\Estrutural\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+D:\Projetos\DesignPatterns\Estrutural\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+D:\Projetos\DesignPatterns\Estrutural\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+D:\Projetos\DesignPatterns\Estrutural\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+D:\Projetos\DesignPatterns\Estrutural\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+D:\Projetos\DesignPatterns\Estrutural\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatterns\Estrutural\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+D:\Projetos\DesignPatterns\Estrutural\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatterns\Estrutural\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+D:\Projetos\DesignPatterns\Estrutural\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+D:\Projetos\DesignPatterns\Estrutural\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache
