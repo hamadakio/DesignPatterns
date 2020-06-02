@@ -1,0 +1,13 @@
+D:\Projetos\DesignPatterns\Comportamental\Mediator\bin\Debug\netcoreapp3.1\Mediator.exe
+D:\Projetos\DesignPatterns\Comportamental\Mediator\bin\Debug\netcoreapp3.1\Mediator.deps.json
+D:\Projetos\DesignPatterns\Comportamental\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.json
+D:\Projetos\DesignPatterns\Comportamental\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.dev.json
+D:\Projetos\DesignPatterns\Comportamental\Mediator\bin\Debug\netcoreapp3.1\Mediator.dll
+D:\Projetos\DesignPatterns\Comportamental\Mediator\bin\Debug\netcoreapp3.1\Mediator.pdb
+D:\Projetos\DesignPatterns\Comportamental\Mediator\obj\Debug\netcoreapp3.1\Mediator.csprojAssemblyReference.cache
+D:\Projetos\DesignPatterns\Comportamental\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfo.cs
+D:\Projetos\DesignPatterns\Comportamental\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Mediator\obj\Debug\netcoreapp3.1\Mediator.dll
+D:\Projetos\DesignPatterns\Comportamental\Mediator\obj\Debug\netcoreapp3.1\Mediator.pdb
+D:\Projetos\DesignPatterns\Comportamental\Mediator\obj\Debug\netcoreapp3.1\Mediator.genruntimeconfig.cache
