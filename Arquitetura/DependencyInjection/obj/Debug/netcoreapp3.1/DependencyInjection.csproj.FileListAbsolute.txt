@@ -1,0 +1,13 @@
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache
+D:\Projetos\DesignPatterns\Arquitetura\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csprojAssemblyReference.cache
