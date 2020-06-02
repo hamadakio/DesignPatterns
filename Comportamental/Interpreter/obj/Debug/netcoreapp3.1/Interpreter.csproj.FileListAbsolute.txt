@@ -1,0 +1,13 @@
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.exe
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.deps.json
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.json
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.dev.json
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.dll
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.pdb
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csprojAssemblyReference.cache
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfo.cs
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
+D:\Projetos\DesignPatterns\Comportamental\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.genruntimeconfig.cache
