@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOC3Kct68M8cxZ32C6T6E8Fe2eeJMnOefZRdMxs+cpo5xlkdfUcGVuC0YvhX8zVqFEC8j1yvIG2CnC1thBgkGw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\DesignPatterns\\Comportamental\\TemplateMethod\\TemplateMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

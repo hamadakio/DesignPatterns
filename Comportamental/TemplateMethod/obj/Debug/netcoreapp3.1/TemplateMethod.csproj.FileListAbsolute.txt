@@ -1,0 +1,13 @@
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.exe
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.deps.json
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.json
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.dev.json
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.dll
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.pdb
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csprojAssemblyReference.cache
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfo.cs
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
+D:\Projetos\DesignPatterns\Comportamental\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.genruntimeconfig.cache
