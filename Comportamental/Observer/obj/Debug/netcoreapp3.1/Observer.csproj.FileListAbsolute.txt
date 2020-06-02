@@ -1,0 +1,12 @@
+D:\Projetos\DesignPatterns\Comportamental\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+D:\Projetos\DesignPatterns\Comportamental\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+D:\Projetos\DesignPatterns\Comportamental\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+D:\Projetos\DesignPatterns\Comportamental\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+D:\Projetos\DesignPatterns\Comportamental\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+D:\Projetos\DesignPatterns\Comportamental\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+D:\Projetos\DesignPatterns\Comportamental\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+D:\Projetos\DesignPatterns\Comportamental\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+D:\Projetos\DesignPatterns\Comportamental\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
+D:\Projetos\DesignPatterns\Comportamental\Observer\obj\Debug\netcoreapp3.1\Observer.genruntimeconfig.cache

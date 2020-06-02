@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwXgowBpP/fIuJBQXXUKCkMRzW1SQ17zQed70VUUBx+Oy7pro70RNifuS7Qo120H7GOUkOyM7xr5dFeB9lnFzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\DesignPatterns\\Comportamental\\Observer\\Observer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
