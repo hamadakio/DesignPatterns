@@ -1,0 +1,13 @@
+D:\Projetos\DesignPatterns\Comportamental\Visitor\bin\Debug\netcoreapp3.1\Visitor.exe
+D:\Projetos\DesignPatterns\Comportamental\Visitor\bin\Debug\netcoreapp3.1\Visitor.deps.json
+D:\Projetos\DesignPatterns\Comportamental\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.json
+D:\Projetos\DesignPatterns\Comportamental\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.dev.json
+D:\Projetos\DesignPatterns\Comportamental\Visitor\bin\Debug\netcoreapp3.1\Visitor.dll
+D:\Projetos\DesignPatterns\Comportamental\Visitor\bin\Debug\netcoreapp3.1\Visitor.pdb
+D:\Projetos\DesignPatterns\Comportamental\Visitor\obj\Debug\netcoreapp3.1\Visitor.csprojAssemblyReference.cache
+D:\Projetos\DesignPatterns\Comportamental\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfo.cs
+D:\Projetos\DesignPatterns\Comportamental\Visitor\obj\Debug\netcoreapp3.1\Visitor.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Visitor\obj\Debug\netcoreapp3.1\Visitor.dll
+D:\Projetos\DesignPatterns\Comportamental\Visitor\obj\Debug\netcoreapp3.1\Visitor.pdb
+D:\Projetos\DesignPatterns\Comportamental\Visitor\obj\Debug\netcoreapp3.1\Visitor.genruntimeconfig.cache
