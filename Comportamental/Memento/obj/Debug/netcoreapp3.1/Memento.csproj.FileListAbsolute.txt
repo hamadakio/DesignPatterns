@@ -1,0 +1,12 @@
+D:\Projetos\DesignPatterns\Comportamental\Memento\bin\Debug\netcoreapp3.1\Memento.exe
+D:\Projetos\DesignPatterns\Comportamental\Memento\bin\Debug\netcoreapp3.1\Memento.deps.json
+D:\Projetos\DesignPatterns\Comportamental\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.json
+D:\Projetos\DesignPatterns\Comportamental\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.dev.json
+D:\Projetos\DesignPatterns\Comportamental\Memento\bin\Debug\netcoreapp3.1\Memento.dll
+D:\Projetos\DesignPatterns\Comportamental\Memento\bin\Debug\netcoreapp3.1\Memento.pdb
+D:\Projetos\DesignPatterns\Comportamental\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfo.cs
+D:\Projetos\DesignPatterns\Comportamental\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatterns\Comportamental\Memento\obj\Debug\netcoreapp3.1\Memento.dll
+D:\Projetos\DesignPatterns\Comportamental\Memento\obj\Debug\netcoreapp3.1\Memento.pdb
+D:\Projetos\DesignPatterns\Comportamental\Memento\obj\Debug\netcoreapp3.1\Memento.genruntimeconfig.cache
